@@ -1,0 +1,16 @@
+moja propozycja
+System e-głosowania
+System umożliwiający e-głosowanie w obrębie miasta Gdańska w wyborach takich
+jak: wybory prezydenta miasta, wybory rady miasta, referenda miejskie i inne
+Każdy uprawniony do udziału w wyborach mieszkaniec miasta Gdańska będzie mógł
+w odpowiednim urzędzie odebrać darmowo nośnik (np. płyte CD) zawierający jego podpis
+elektroniczny zabezpieczony wybranym w urzędzie przez niego hasłem.
+Korzystając z nośnika, oraz komputera z napendem CD-ROM podłączonego do
+internetu i zainstalowaną przeglądarką internetową będzie mógł zagłosować w
+danych wyborach.
+Priorytetem systemu ma być bezpieczeństwo rozumiane zarówno jako
+uniemożliwienie nieuprawnionej ingerencji w proces głosowania jak i tajność
+wyborów
+System musi być łatwy w obsłudze nawet dla osób mających nikłe pojęcie o
+komputerach
+
