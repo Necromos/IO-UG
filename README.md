@@ -1,9 +1,13 @@
-IO-UG
-=====
+## Inżynieria Oprogramowania zima 2012
+#### Nazwa projektu:
 
-Inżynieria oprogramowania rocznik 2012-2013
+#### Skład grupy:
+* Maciej Stankiewicz
+* Przemysław Królik
+* Grzegorz Melzer
 
-Skład:
-Maciek Stankiewicz
-Przemysław Królik
-Grzegorz Melzer
+## Ogólny opis
+
+## Słownik terminów
+
+## Moduły
