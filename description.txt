@@ -1,4 +1,4 @@
-moja propozycja
+﻿moja propozycja
 System e-głosowania
 System umożliwiający e-głosowanie w obrębie miasta Gdańska w wyborach takich
 jak: wybory prezydenta miasta, wybory rady miasta, referenda miejskie i inne
@@ -14,3 +14,7 @@ wyborów
 System musi być łatwy w obsłudze nawet dla osób mających nikłe pojęcie o
 komputerach
 
+ad1:
+osoby które nie chcą "e-głosować" mogłyby iść do komisji wyborczych w których
+specjalnie przygotowane terminale mogłyby rozpoznawać mieszkańców poprzez ich
+elektroniczne podpisy/starym sposobem tj poprzez wpisanie się na listę
