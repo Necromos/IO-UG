@@ -1,5 +1,5 @@
 ## Inżynieria Oprogramowania zima 2012
-#### Nazwa projektu:
+#### Nazwa projektu: ???
 
 #### Skład grupy:
 * Maciej Stankiewicz
@@ -7,7 +7,6 @@
 * Grzegorz Melzer
 
 ## Ogólny opis
-
-## Słownik terminów
+W fazie tworzenia i ustalania.
 
 ## Moduły
