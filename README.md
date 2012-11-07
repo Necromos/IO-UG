@@ -21,6 +21,6 @@ Projekt e-głosowania rozpowszechnialny w każdym mieście oraz umożliwiający 
 * ```technik pomocy``` - specjalista służący jako wsparcie techniczne dla użytkowników
 
 ## Moduły
-* ```Formularz``` - odpowiedzialny za oddawanie głosów; Osoba odpowiedzialna: ```???```; Szczegóły: ([]())
-* ```Komisja``` -  aplet kontroli komisji okręgowej; Osoba odpowiedzialna: ```???```; Szczegóły: ([]())
-* ```Centrala wyborcza``` - główny węzeł miasta; Osoba odpowiedzialna: ```???```; Szczegóły: ([]())
+* ```Formularz``` - odpowiedzialny za oddawanie głosów
+* ```Komisja``` -  aplet kontroli komisji okręgowej
+* ```Centrala wyborcza``` - główny węzeł miasta
