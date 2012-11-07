@@ -25,3 +25,6 @@ Projekt e-głosowania rozpowszechnialny w każdym mieście oraz umożliwiający 
 * ```Formularz``` - aplikacja web-owa składająca się z warstw powiązanych z pozostałymi modułami
 * ```Komisja``` -  aplet kontroli komisji okręgowej
 * ```Centrala wyborcza``` - główny węzeł miasta służący jako baza danych i nazdór wyborów w rejonie
+###### Podmoduły
+######## Centrala wyborcza
+* ```?``` - ?
