@@ -18,9 +18,10 @@ Projekt e-głosowania rozpowszechnialny w każdym mieście oraz umożliwiający 
 * ```lokal wyborczy``` - fizyczna lokalizacja służąca jako punkt naziemny do oddawania głosów z wcześniej przygotowanych i skonfigurowanych stanowisk wyposażonych w terminale
 * ```terminal``` - sprzęt fizyczny odpowiedzialny za połączenie z platformą głosowania dostępny w lokalu wyborczym
 * ```przewodniczący komisji``` - osoba odpowiedzialna za korygowanie poprawności ilości osób oddających głos z bazą danych i uniemożliwianie "podwójnego oddawania głosu"
+* ```wsparcie techniczne``` - platforma web-owa służąca jako główny węzeł komunikacyjny z technikami pomocy
 * ```technik pomocy``` - specjalista służący jako wsparcie techniczne dla użytkowników
 
 ## Moduły
-* ```Formularz``` - odpowiedzialny za oddawanie głosów
+* ```Formularz``` - aplikacja web-owa składająca się z warstw powiązanych z pozostałymi modułami
 * ```Komisja``` -  aplet kontroli komisji okręgowej
-* ```Centrala wyborcza``` - główny węzeł miasta
+* ```Centrala wyborcza``` - główny węzeł miasta służący jako baza danych i nazdór wyborów w rejonie
