@@ -10,7 +10,7 @@
 Projekt e-głosowania rozpowszechnialny w każdym mieście oraz umożliwiający zdalną kontrolę i nadzór komisji wyborczych z głównego węzła znajdującego się w głównej siedzibie komisji wyborczej miasta. Projekt będzie także umożliwiał dostęp zdalny wyborców z domu poprzez specjalne aplikacje (w fazie ustalania).
 
 ## Słownik pojęć
-([Dostępny tutaj][http://github.com/Necromos/IO-UG/blob/master/SłownikPojęć.md])
+([Dostępny tutaj](http://github.com/Necromos/IO-UG/blob/master/SłownikPojęć.md))
 
 
 ## Moduły
