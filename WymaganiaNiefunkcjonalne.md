@@ -1,4 +1,4 @@
-##Wymagania Niefunkcjonalne
+﻿##Wymagania Niefunkcjonalne
 
 ##Wymagania Niefizyczne
 
@@ -6,7 +6,7 @@
 java
 
 ####Technologia
-Technologia Java Enterprise Edition 1.6
+Technologia Java Enterprise Edition 1.6 w tym HTML 4.01 oraz CSS2
 Serwer Aplikacyjny Glassfish 3.1.2.2
 
 ####Używane Frameworki
