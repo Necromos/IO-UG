@@ -18,11 +18,11 @@ Projekt e-głosowania rozpowszechnialny w każdym mieście oraz umożliwiający 
 * ```Centrala wyborcza``` - główny komponent służący do kontroli działania pozostałych krytycznych części systemu
 * ```Pomoc techniczna``` - główny komponent pomocy technicznej składający się z wysczególnionyc
 
-#### Modułu
+#### Moduły
 * ```Front-end``` - zewnętrzny dostęp głosujących do zasobów aplikacji
 * ```Panel komisji``` - moduł nadzorujący integralność danych z terminali
 * ```Panel administracyjny``` - nadzór spójności systemu oraz wgląd w niekrytyczne części
 * ```Panel statystyczny``` - dostęp do niekrytycznych danych potrzebnych przy wyciąganiu wyników oraz kontroli przebiegu głosowania
 * ```Panel twórcy``` - terminal dostępowy bezpośrednio z lokalizacji serwera na specjalnych prawach osobom odpowiedzialnym za tworzenie ankiet głosowania i sprawdzania ich poprawności
 * ```Automatyczny system pomocy``` - moduł odpowiedzialny za zdalne (bez użycia osoby żywej) odpowiadanie na pytania głosujacych
-* ```Bezpośredni systme pomocy``` - moduł kontaktu bezpośredniego pomiędzy głosującym a technikiem pomocy
+* ```Bezpośredni system pomocy``` - moduł kontaktu bezpośredniego pomiędzy głosującym a technikiem pomocy
