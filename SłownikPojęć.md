@@ -1,18 +1,18 @@
-##S³ownik pojêæ
-####Pojêcia ogólne
-* ```administrator``` - osoba fizyczna sprawuj¹ca kontrolê nad wyznaczonymi zadaniami systemu, rozszczególniany na ró¿ne obowi¹zki/funkcje (wiêcej szczegó³ów w poszczególnych zakresach)
-* ```serwer g³osuj¹cy``` - ogólna nazwa ca³ego kompleksu modu³owego odpowiedzialnego za g³ówne funkcje systemu
-* ```g³osuj¹cy``` - osoba fizyczna, pe³na praw obywatelskich w zakresie udzia³u w wyborach
-* ```g³os``` - zanotowanie w systemie poprawnego wyboru dokonanego przez g³osuj¹cego w danej turze
-* ```tura``` - g³osowanie dotycz¹ce jednego wydarzenia ustalane zewnêtrzenie przez organy rz¹dowe
-* ```podpis elektroniczny``` - sygnatura podtwierdzaj¹ca autentycznoœæ u¿ytkownika z serwerem g³osuj¹cym
-* ```certyfikat``` - klucz podtwierdzaj¹cy autentycznoœæ us³ugodawcy ( w tym wypadku serwera g³osuj¹cego)
-* ```platforma g³osowania``` - elektroniczny system obs³ugiwany przez protoko³y web-owe i serwery umieszczone w poszczególnych miastach
-* ```lokal wyborczy``` - fizyczna lokalizacja s³u¿¹ca jako punkt naziemny do oddawania g³osów z wczeœniej przygotowanych i skonfigurowanych stanowisk wyposa¿onych w terminale
-* ```terminal``` - sprzêt fizyczny odpowiedzialny za po³¹czenie z platform¹ g³osowania poprzez aplet komisji dostêpny w lokalu wyborczym
-* ```aplet komisji``` - system zarz¹dzaj¹cy terminalami w lokalu komisji okrêgowej
-* ```lokal komisji okrêgowej``` - fizyczna lokalizacja punktu w którym mo¿na oddawaæ g³osy w przypadku nie pobrania podpisu elektronicznego i certyfikatu
-* ```komisja okrêgowa``` - komisja sk³adaj¹ca siê z osób odpowiedzialnych za poprawne przebieganie wyborów
-* ```przewodnicz¹cy komisji``` - osoba odpowiedzialna za korygowanie poprawnoœci iloœci osób oddaj¹cych g³os z baz¹ danych i uniemo¿liwianie "podwójnego oddawania g³osu"
-* ```wsparcie techniczne``` - platforma web-owa s³u¿¹ca jako g³ówny wêze³ komunikacyjny z technikami pomocy
-* ```technik pomocy``` - specjalista s³u¿¹cy jako wsparcie techniczne dla u¿ytkowników
+ï»¿##SÅ‚ownik pojÄ™Ä‡
+####PojÄ™cia ogÃ³lne
+* ```administrator``` - osoba fizyczna sprawujÄ…ca kontrolÄ™ nad wyznaczonymi zadaniami systemu, rozszczegÃ³lniany na rÃ³Å¼ne obowiÄ…zki/funkcje (wiÄ™cej szczegÃ³Å‚Ã³w w poszczegÃ³lnych zakresach)
+* ```serwer gÅ‚osujÄ…cy``` - ogÃ³lna nazwa caÅ‚ego kompleksu moduÅ‚owego odpowiedzialnego za gÅ‚Ã³wne funkcje systemu
+* ```gÅ‚osujÄ…cy``` - osoba fizyczna, peÅ‚na praw obywatelskich w zakresie udziaÅ‚u w wyborach
+* ```gÅ‚os``` - zanotowanie w systemie poprawnego wyboru dokonanego przez gÅ‚osujÄ…cego w danej turze
+* ```tura``` - gÅ‚osowanie dotyczÄ…ce jednego wydarzenia ustalane zewnÄ™trzenie przez organy rzÄ…dowe
+* ```podpis elektroniczny``` - sygnatura podtwierdzajÄ…ca autentycznoÅ›Ä‡ uÅ¼ytkownika z serwerem gÅ‚osujÄ…cym
+* ```certyfikat``` - klucz podtwierdzajÄ…cy autentycznoÅ›Ä‡ usÅ‚ugodawcy ( w tym wypadku serwera gÅ‚osujÄ…cego)
+* ```platforma gÅ‚osowania``` - elektroniczny system obsÅ‚ugiwany przez protokoÅ‚y web-owe i serwery umieszczone w poszczegÃ³lnych miastach
+* ```lokal wyborczy``` - fizyczna lokalizacja sÅ‚uÅ¼Ä…ca jako punkt naziemny do oddawania gÅ‚osÃ³w z wczeÅ›niej przygotowanych i skonfigurowanych stanowisk wyposaÅ¼onych w terminale
+* ```terminal``` - sprzÄ™t fizyczny odpowiedzialny za poÅ‚Ä…czenie z platformÄ… gÅ‚osowania poprzez aplet komisji dostÄ™pny w lokalu wyborczym
+* ```aplet komisji``` - system zarzÄ…dzajÄ…cy terminalami w lokalu komisji okrÄ™gowej
+* ```lokal komisji okrÄ™gowej``` - fizyczna lokalizacja punktu w ktÃ³rym moÅ¼na oddawaÄ‡ gÅ‚osy w przypadku nie pobrania podpisu elektronicznego i certyfikatu
+* ```komisja okrÄ™gowa``` - komisja skÅ‚adajÄ…ca siÄ™ z osÃ³b odpowiedzialnych za poprawne przebieganie wyborÃ³w
+* ```przewodniczÄ…cy komisji``` - osoba odpowiedzialna za korygowanie poprawnoÅ›ci iloÅ›ci osÃ³b oddajÄ…cych gÅ‚os z bazÄ… danych i uniemoÅ¼liwianie "podwÃ³jnego oddawania gÅ‚osu"
+* ```wsparcie techniczne``` - platforma web-owa sÅ‚uÅ¼Ä…ca jako gÅ‚Ã³wny wÄ™zeÅ‚ komunikacyjny z technikami pomocy
+* ```technik pomocy``` - specjalista sÅ‚uÅ¼Ä…cy jako wsparcie techniczne dla uÅ¼ytkownikÃ³w
