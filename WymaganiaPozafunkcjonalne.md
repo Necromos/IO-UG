@@ -49,6 +49,15 @@ Dwie bazy danych położone w różnych lokalizacjach fizycznych
 
 
 ##Wymagania Bezpieczeństwa
+Połączenie z serwerem musi odbywać się przez bezpieczny protokół https z szyfrowaniem ssl
+Serwer musi posiadać certyfikat najwyższego poziomu wydany przez główny ośrodek certyfikacji rozpoznawany przez główne przeglądarki
+System musi być zabezpieczony przez adakami SQLi, MIM, i innymi znanymi atakami
+Serwery baz danych są dostępne tylko w sieci wewnętrznej
+System nie przechowuje informacji na temat głosów konkretnych osób dla zapewnienia tajności głosowania
 
 ##Wymagania Wydajnościowe
+Serwer musi obsłużyć conajmniej 1% urzytkowników zalogowanych w tym samym czasie
+System musi być dostępny 99,999% w okresie głosowania oraz 99,99% poza nim
+Serwer pomocy musi być dostępny na poziomi 99.99%
+Czas kontaktu z help desk przez serwer pomocy musi być nie dłuższy niż 2 min
 
