@@ -1,0 +1,16 @@
+Struktura dokumentu opisującego wymagania:
+1. Wprowadzenie (cele, zakres i kontekst systemu, opis i wyniki fazy 
+strategicznej). 
+2. Opis ewolucji systemu.
+3. Opis wymagań funkcjonalnych.
+4. Opis wymagań niefunkcjonalnych.
+5. Model systemu (faza określania wymagań i faza modelowania częściowo się 
+nakładają).
+6. Słownik (dokument ten musi być zrozumiały zarówno dla pracowników firmy 
+programistycznej jak i dla klienta).
+7. Dodatki:
+8. Specyfikacja wymagań funkcjonalnych.
+9. Specyfikacja wymagań niefunkcjonalnych.
+10. Wymagania sprzętowe.
+11. Wymagania dotyczące bazy danych.
+12. Indeks (ułatwia przeglądanie dokumentów)
