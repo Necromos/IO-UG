@@ -4,9 +4,9 @@ Jest to główny komponent komisji wyborczej regulujący status osób głosując
 
 ## Moduły zaimplementowane
 #### Panel komisji
-
+Uruchamia dostęp do terminali ustawiając ilość możliwych do oddania głosów a w przypadku nieścisłości blokuje ów dostęp. Zatwierdza wstępną poprawność głosowania. Łączy się z wewnętrznym systemem przesyłając mu dane w zsynchronizowanych godzinach aby odciążyć go od ciągłych zapytań.
 
 ## Komunikacja wewnątrz-komponentowa
-
+Brak
 ## Komunikacja zewnątrz-komponentowa
 Wysyła dane wstępnie zatwierdzone otrzymane od terminalu oraz podtwierdza poprawność danych.
